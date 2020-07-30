@@ -1,0 +1,24 @@
+body{
+	border: 16px solid rgb(66, 245, 239);
+	width: 55%;
+	margin-left: 22.5%;
+	margin-right: 22.5%;
+	height: 55%;
+	padding: 2%;
+}
+p{
+	font-family: "Caveat";
+	font-size: 18px;
+}
+span{
+	font-style: bold;
+}
+h3{
+	color: rgb(7, 7, 133);
+}
+div{
+	margin-bottom: 50px;
+}
+.start{
+	border-left: 4px solid rgb(66, 245, 239);
+}
